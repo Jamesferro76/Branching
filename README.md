@@ -1,6 +1,7 @@
 ## Git and Git Branching Cheat Sheet
 
 categories of git commands, and practice with branching.
+Practice with merging and merge conflicts.
 ### Basic commands
 * `git init` - initialize current directory with local git repository
 * `git add .` - add all new or changed files in current directory to git index, staging them for commit
